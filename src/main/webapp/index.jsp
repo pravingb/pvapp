@@ -236,6 +236,13 @@ body{
             <button>Pay Online</button>
         </div>
 
+	 <div class="card">
+            <h3>Income Tax</h3>
+            <p>Pay property tax securely through the portal.</p>
+            <button>Pay Online</button>
+        </div>
+
+
         <div class="card">
             <h3>Driving License</h3>
             <p>License renewal and status verification services.</p>
@@ -257,7 +264,8 @@ body{
 
     <ul>
         <li>New digital citizen ID services launched nationwide.</li>
-        <li>Online scholarship applications open for academic year.</li>
+        <li>New Employment registration portal launched nationwide.</li>
+	<li>Online scholarship applications open for academic year.</li>
         <li>Property tax rebate available till the end of the month.</li>
         <li>Public grievance portal upgraded with real-time tracking.</li>
     </ul>
@@ -267,7 +275,7 @@ body{
 <footer class="footer">
     <p>
         © <%= java.time.Year.now().getValue() %>
-        Government Services Portal. All Rights Reserved.
+        Government Services Portal, Maintained by pgtech solutions pvt. Ltd.  All Rights Reserved.
     </p>
     <p>Official Government Website</p>
 </footer>
