@@ -266,6 +266,7 @@ body{
         <li>New digital citizen ID services launched nationwide.</li>
         <li>New Employment registration portal launched nationwide.</li>
 	<li>Online scholarship applications open for academic year.</li>
+	<li>Govt portal for Online school and college admission process.</li>
         <li>Property tax rebate available till the end of the month.</li>
         <li>Public grievance portal upgraded with real-time tracking.</li>
     </ul>
